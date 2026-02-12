@@ -25,6 +25,7 @@ Security & Scalability
 The goal is to move from simple AI experiments → production-ready business systems.
 
 🗺 6-Month Engineering Roadmap
+
 ## 🟢 Phase 1 — Core AI & LLM (Month 1)
 
 Goal: Understand how AI works inside real products.
