@@ -210,6 +210,7 @@ Enterprise-ready AI assistant
 You are now an AI Automation Engineer.
 
 ## >> Full Stack Architecture
+
 User Interface (Flutter / Web)
             ↓
 Backend API (Node / FastAPI / Firebase)
@@ -225,6 +226,7 @@ CRM (HubSpot / Zoho)
 Automation (n8n / Zapier)
 
 # What You Can Build With This Stack
+
 ## >> AI Sales Automation System
 
 Website chatbot
